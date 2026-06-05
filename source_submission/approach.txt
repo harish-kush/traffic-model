@@ -1,7 +1,6 @@
 ================================================================================
 Gridlock Hackathon 2.0 - Traffic Demand Prediction
 Leaderboard Score: 100 / 100 (R² = 1.0)
-Submission ID: 128898705
 Author: harish kush
 Repository: https://github.com/harish-kush/traffic-model
 ================================================================================
