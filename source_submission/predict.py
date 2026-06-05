@@ -1,6 +1,5 @@
 # Traffic Demand Prediction for Gridlock Hackathon 2.0
 # Leaderboard Score: 100 / 100 (R² = 1.0)
-# Submission ID: 128898705
 #
 # Usage:
 #   python predict.py --train training.csv --test test.csv --out submission.csv
