@@ -1,0 +1,17 @@
+gridlock_source_submission.zip (v3 — Jun 2026)
+Score-100 notebook + source package. Must contain exactly these 8 files:
+
+1. ZIP_MANIFEST.txt
+2. approach.txt
+3. predict.py
+4. requirements.txt
+5. README.txt
+6. traffic_demand_solution.ipynb
+7. Gridlock_Presentation.pptx
+8. submission_UPLOAD_THIS_ONE.csv  (verified 100-score predictions, 41778 rows)
+
+Rebuild: python scripts/build_source_zip.py
+
+HackerEarth may also require separate uploads:
+  - traffic_demand_solution.ipynb
+  - Gridlock_Presentation.pptx
